@@ -1,0 +1,6 @@
+{
+  "name": "Aura Sanctuaries - Architectural Stays & Screen Studio",
+  "description": "An immersive multi-screen sanctuary stay booking application and interactive HTML screen studio with hotlinked media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
